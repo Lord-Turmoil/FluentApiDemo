@@ -1,5 +1,6 @@
+// Copyright (C) 2018 - 2024 Tony's Studio. All rights reserved.
+
 using FluentApiDemo.Advanced;
-using FluentApiDemo.Basic;
 
 namespace Test;
 

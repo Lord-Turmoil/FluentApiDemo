@@ -1,12 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿// Copyright (C) 2018 - 2024 Tony's Studio. All rights reserved.
 
-namespace FluentApiDemo.Advanced
+namespace FluentApiDemo.Advanced;
+
+interface ICanSetColumnTypeFirst
 {
-    internal interface ICanSetColumnTypeFirst
-    {
-    }
 }
