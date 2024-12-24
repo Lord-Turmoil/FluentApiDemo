@@ -4,7 +4,7 @@
 
 ---
 
-Repository for [Thoughts on Building Fluent API](https://www.tonys-studio.top/posts/Thoughts-on-Building-Fluent-API/).
+Repository for [Thoughts on Building Fluent API](https://www.tonys-studio.top/posts/Thoughts-on-Building-Fluent-API/) ([Backup](https://lord-turmoil.github.io/posts/Thoughts-on-Building-Fluent-API/)).
 
 This is a demo of building Fluent API in C#. Here we have a simple example a SQL table builder.
 
